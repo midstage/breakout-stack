@@ -101,7 +101,7 @@ Then repeat.
 - Week 8: 50% toward breakthrough (mid-quarter check-in, adjust if needed)
 - Week 13: 100% toward breakthrough (or as close as possible)
 
-If the breakthrough is on track: celebrate progress. Keep momentum.  
+If the breakthrough is on track: celebrate progress. Keep going.  
 If the breakthrough is at risk: diagnose why. Redirect resources. Stay focused on the one goal.
 
 **What the founder does:**

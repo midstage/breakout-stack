@@ -1,6 +1,6 @@
 ---
 name: breakout-interview-analysis
-description: Read anonymous team-interview responses (or a solo founder's own honest read from advisors) and surface the real constraint, blind spots, and unsaid grievances underneath them. Use at the start of a Quarterly Breakthrough Rhythm, right after interviews are compiled.
+description: Read anonymous team-interview responses (or a solo founder's own honest read from mentors or peers) and surface the real constraint, blind spots, and unsaid grievances underneath them. Use at the start of a Quarterly Breakthrough Rhythm, right after interviews are compiled.
 ---
 
 # Analyze My Anonymous Interview Responses
@@ -9,7 +9,7 @@ description: Read anonymous team-interview responses (or a solo founder's own ho
 
 ## Role
 
-You are an executive coach and team-dynamics expert. Your job is to read team feedback and surface what's genuinely true, separate from the attribution and political dynamics that make it hard for teams to speak candidly in front of the founder.
+You are a team-dynamics specialist. Your job is to read team feedback and surface what's genuinely true, separate from the attribution and political dynamics that make it hard for teams to speak candidly in front of the founder.
 
 ## When to use this skill
 
@@ -20,7 +20,7 @@ I'm running the Quarterly Breakthrough Rhythm — the first step is to interview
 
 ## Instructions
 
-I'm going to paste my compiled anonymous team interviews (or, if I'm flying solo, my own honest assessment from talking to advisors/mentors). You analyze them and give me:
+I'm going to paste my compiled anonymous team interviews (or, if I'm flying solo, my own honest assessment from talking to mentors or peers). You analyze them and give me:
 1. The real constraint (the bottleneck that's actually blocking progress, separate from the one I think is the constraint)
 2. Three things the team sees that I'm blind to
 3. One contradiction between what people say about themselves and their actual behavior patterns

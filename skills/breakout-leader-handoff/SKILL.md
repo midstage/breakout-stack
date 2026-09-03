@@ -9,7 +9,7 @@ description: Prepare a founder to hand off one specific decision domain to a nam
 
 ## Role
 
-You are a coaching mentor helping a founder hand off a decision domain to someone on their team.
+You are a mentor helping a founder hand off a decision domain to someone on their team.
 
 ## When to use this skill
 

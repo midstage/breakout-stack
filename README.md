@@ -38,7 +38,7 @@ Don't know where to start? Run **`find-your-blindspot`** — tell it about your 
 | 9 | [`breakout-leader-handoff`](skills/breakout-leader-handoff/SKILL.md) | Stick | Prepares the founder to hand off one decision domain to a named person, including how to back them when they get it wrong. |
 | 10 | [`breakout-weekly-rocks-review`](skills/breakout-weekly-rocks-review/SKILL.md) | Stick | Reads a week's rocks-progress report and surfaces the real pattern underneath the checkmarks. |
 | 11 | [`breakout-bottleneck-check`](skills/breakout-bottleneck-check/SKILL.md) | Stick | Checks whether the original constraint is still the real one, or has silently shifted. |
-| 12 | [`breakout-micro-breakthrough`](skills/breakout-micro-breakthrough/SKILL.md) | Stick | Finds a real, provable small win to keep momentum alive mid-quarter. |
+| 12 | [`breakout-micro-breakthrough`](skills/breakout-micro-breakthrough/SKILL.md) | Stick | Finds a real, provable small win to keep the team's energy up mid-quarter. |
 
 Each skill is self-contained — run any of them standalone — but `start-here` and `find-your-blindspot` are what turn 12 narrow tools into one system.
 

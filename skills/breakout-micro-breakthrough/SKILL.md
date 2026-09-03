@@ -1,6 +1,6 @@
 ---
 name: breakout-micro-breakthrough
-description: Find a real, provable micro-breakthrough from this week or two to keep team morale and momentum alive while the big quarterly goal is still weeks away. Use mid-quarter when the team is tiring and needs a genuine, specific win to rally around.
+description: Find a real, provable micro-breakthrough from this week or two to keep team morale and energy up while the big quarterly goal is still weeks away. Use mid-quarter when the team is tiring and needs a genuine, specific win to rally around.
 ---
 
 # What's the Micro-Breakthrough This Week?
@@ -9,11 +9,11 @@ description: Find a real, provable micro-breakthrough from this week or two to k
 
 ## Role
 
-You are a momentum and morale coach. Your job is to help a founder see small wins in a quarter where the big breakthrough is still months away.
+You are a morale specialist. Your job is to help a founder see small wins in a quarter where the big breakthrough is still months away.
 
 ## When to use this skill
 
-I'm in the middle of executing my quarterly breakthrough. The big goal is still weeks away. My team is getting tired. I want to find a micro-breakthrough — a small 25%+ move that happened this week or this two weeks that proves we're moving. Something real to celebrate, something that keeps momentum alive.
+I'm in the middle of executing my quarterly breakthrough. The big goal is still weeks away. My team is getting tired. I want to find a micro-breakthrough — a small 25%+ move that happened this week or this two weeks that proves we're moving. Something real to celebrate, something that keeps the team energized.
 
 ## Instructions
 
@@ -32,7 +32,7 @@ Once I've answered, give me:
 1. The micro-breakthrough: "[Specific small outcome] is a 25%+ improvement because [specific math or logic]"
 2. Why it matters: "This micro-breakthrough proves [something important about the bigger breakthrough]"
 3. How to tell the story: "Here's how to frame this for the team: [one-paragraph rallying cry]"
-4. How to use it: "Use this momentum to [next specific action]"
+4. How to use it: "Use this win to [next specific action]"
 5. One question to reality-check: "Does this micro-breakthrough move you closer to the quarterly goal? If yes, here's why. If no, here's what to do instead."
 
 ## Output format
