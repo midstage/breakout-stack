@@ -1,6 +1,8 @@
 # The Breakout Stack
 
-One real breakthrough per quarter — diagnosed, committed to, executed, and stacked on the last one. This repo is the actual product: not PDFs to read, a set of skills you install into Claude or ChatGPT and run.
+Most AI-native "stacks" (gstack included) are about how to build an early-stage product — 0 to 1, ship fast, find PMF. This one starts after that: **how to lead a startup that's already working but has plateaued** — how a founder turns a mediocre, founder-bottlenecked company into an extraordinary one, one real breakthrough per quarter, stacked on the last.
+
+This repo is the actual product: not PDFs to read, a set of skills you install into Claude or ChatGPT and run.
 
 ## Install it
 
@@ -8,7 +10,7 @@ One real breakthrough per quarter — diagnosed, committed to, executed, and sta
 
 **ChatGPT:** paste the contents of a skill's `SKILL.md` into a Custom GPT's instructions, or straight into a chat when you want to run that specific step.
 
-Either way, start with one skill: **`start-here`**. It figures out where you are in the cycle and routes you to the rest.
+Don't know where to start? Run **`find-your-blindspot`** — tell it about your startup and it'll tell you what's actually stuck, before you know the vocabulary. Already know the rhythm? Start with **`start-here`** instead — it routes you straight to the right phase.
 
 ## The rhythm: Stuck → Stock → Stick → Stack
 
@@ -23,7 +25,7 @@ Either way, start with one skill: **`start-here`**. It figures out where you are
 
 ## What's in here
 
-- **`skills/`** — 12 phase skills + `start-here`, the router. This is what you actually use.
+- **`skills/`** — 12 phase skills, `start-here` (the router), and `find-your-blindspot` (the intake). This is what you actually use.
 - **`reference/`** — the 6 background essays behind the concepts the skills use (Cleverness Ceiling, Business Flywheel, Windows of Wisdom, the Breakthrough Standard, Anonymous Leadership Interviews, the Quarterly Breakthrough Rhythm). Read on demand, not cover to cover — the skills point to these when you need the "why."
 
 ## Questions or issues
