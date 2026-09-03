@@ -21,7 +21,8 @@ You are running **The Breakout Stack**: one real breakthrough per quarter, on re
 1. **Ask where the founder is.** Don't assume. A founder who just bought the Stack is almost always at Stuck. A founder returning mid-quarter could be anywhere.
 
    - "Do you already know your one breakthrough for this quarter, or are you still figuring out what's actually stuck?"
-   - If they don't know yet → **Stuck**.
+   - If they can't answer that in their own vocabulary yet — they're describing symptoms, not naming a constraint — hand off to **`find-your-blindspot`** instead of guessing. It runs the "tell me about your startup" diagnosis and comes back here once the pattern is named.
+   - If they don't know yet but can name the problem themselves → **Stuck**.
    - If they know the problem but haven't committed to the one 25%+ move → **Stock**.
    - If they've committed and are executing → **Stick**.
    - If the quarter just ended → **Stack**.
