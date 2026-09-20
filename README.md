@@ -1,14 +1,18 @@
 # The Breakout Stack
 
-![14 skills](https://img.shields.io/badge/skills-14-8B5CF6) ![4 phases](https://img.shields.io/badge/phases-4-8B5CF6) ![6 reference guides](https://img.shields.io/badge/reference%20guides-6-8B5CF6) ![Claude + ChatGPT](https://img.shields.io/badge/works%20with-Claude%20%26%20ChatGPT-8B5CF6)
+![Free](https://img.shields.io/badge/price-free-8B5CF6) ![Claude + ChatGPT](https://img.shields.io/badge/works%20with-Claude%20%26%20ChatGPT-8B5CF6)
 
 Most AI-native "stacks" (gstack included) are about how to build an early-stage product — 0 to 1, ship fast, find PMF. This one starts after that: **how to lead a startup that's already working but has plateaued** — how a founder turns a mediocre, founder-bottlenecked company into an extraordinary one, one real breakthrough per quarter, stacked on the last.
 
-This repo is the actual product: not PDFs to read, 14 skills you install into Claude or ChatGPT and run.
+This repo is the actual product: not PDFs to read, real skills you install into Claude or ChatGPT and run. The lineup below is growing and changing as we learn what's actually useful — check the `skills/` folder for what's current rather than treating this table as fixed.
 
 ## Install it
 
-**Claude Code / Claude Desktop:** copy the `skills/` folder into your own `.claude/skills/` directory (or point Claude at this repo directly). Each skill activates automatically when you describe what you're trying to do.
+**Claude Code, Codex, or Cursor:** run this:
+
+```
+npx skills add midstage/breakout-stack --all
+```
 
 **ChatGPT:** paste the contents of a skill's `SKILL.md` into a Custom GPT's instructions, or straight into a chat when you want to run that specific step.
 
@@ -40,7 +44,7 @@ Don't know where to start? Run **`find-your-blindspot`** — tell it about your 
 | 11 | [`breakout-bottleneck-check`](skills/breakout-bottleneck-check/SKILL.md) | Stick | Checks whether the original constraint is still the real one, or has silently shifted. |
 | 12 | [`breakout-micro-breakthrough`](skills/breakout-micro-breakthrough/SKILL.md) | Stick | Finds a real, provable small win to keep the team's energy up mid-quarter. |
 
-Each skill is self-contained — run any of them standalone — but `start-here` and `find-your-blindspot` are what turn 12 narrow tools into one system.
+Each skill is self-contained — run any of them standalone — but `start-here` and `find-your-blindspot` are what turn these narrow tools into one system.
 
 ## Reference — the "why" behind each skill
 
